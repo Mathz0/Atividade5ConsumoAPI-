@@ -19,7 +19,7 @@ Aplicação simples em **React + Vite + TailwindCSS** que consome API
 ## 📦 Instalação
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/seu-usuario/movie-app.git
+git clone https://github.com/Mathz0/Atividade5ConsumoAPI-.git
 cd movie-app
 ```
 ```bash
